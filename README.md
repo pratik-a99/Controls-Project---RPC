@@ -71,7 +71,7 @@ python train_eval.py --root_dir=~/rpc/latent_space --gin_bindings='train_eval.en
 ```
 
 ### References
-* Eysenbach, , et.al. "Robust Predictable Control" arXiv preprint arXiv:2109.03214 (2021)
+* Eysenbach, Salakhutdinov, Levine, et.al. "Robust Predictable Control" arXiv preprint arXiv:2109.03214 (2021)
 
 * Lu, Xingyu, et al. "Dynamics Generalization via Information Bottleneck in Deep Reinforcement Learning." arXiv preprint arXiv:2008.00614 (2020).
 * Igl, Maximilian, et al. "Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck." Advances in Neural Information Processing Systems 32 (2019): 13978-13990.
